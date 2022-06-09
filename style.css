@@ -24,7 +24,6 @@ body {
    font-family: var(--theFont);
    position: relative;
    overflow-x: hidden;
-   scroll-behavior: smooth;
 }
 
 /* Global */
@@ -658,7 +657,7 @@ hr.dashed {
 /* Nutrition area */
 
 .nutrition-area {
-   margin-top: 20em;
+   margin-top: 15em;
 }
 
 .heading-text {
