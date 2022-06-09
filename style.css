@@ -20,7 +20,6 @@
 }
 
 body {
-   background: #24203b;
    background-color: rgb(36, 32, 59);
    font-family: var(--theFont);
    position: relative;
