@@ -51,7 +51,6 @@ nav .nav-menu {
    flex-direction: column;
    background-color: transparent;
    transition: .5s;
-   box-shadow: var(--nav-box-shadow);
 }
 
 nav .nav-title {
