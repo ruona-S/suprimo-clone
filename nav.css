@@ -6,7 +6,7 @@ nav {
    width: 100%;
    margin: 0 auto;
    position: absolute;
-   z-index: 5;
+   z-index: 20;
 }
 
 nav .logo {
@@ -112,12 +112,14 @@ nav .nav-menu .btn button .arrow {
    background-color: white;
    position: relative;
    cursor: pointer;
+   z-index: 51;
 }
 .burger-nav.active .bar:nth-child(3) {
    transform: translateY(-5px) rotate(-45deg);
    background-color: white;
    position: relative;
    cursor: pointer;
+   z-index: 51;
 }
 
 
