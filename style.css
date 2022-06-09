@@ -658,7 +658,7 @@ hr.dashed {
 /* Nutrition area */
 
 .nutrition-area {
-   margin-top: 30em;
+   margin-top: 50em;
 }
 
 .heading-text {
@@ -858,6 +858,10 @@ hr.solid {
    }
    .breakdown-info a h5 {
       padding: 1em 0em;
+   }
+
+   .nutrition-area {
+      margin-top: 15em;
    }
 }
 
