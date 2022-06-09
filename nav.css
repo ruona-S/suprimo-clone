@@ -51,6 +51,7 @@ nav .nav-menu {
    flex-direction: column;
    background-color: transparent;
    transition: .5s;
+   z-index: -50;
 }
 
 nav .nav-title {
@@ -99,6 +100,7 @@ nav .nav-menu .btn button .arrow {
 .nav-menu.active {
    top: 0%;
    background-color: var(--nav-bg);
+   z-index: 50;
 }
 
 
